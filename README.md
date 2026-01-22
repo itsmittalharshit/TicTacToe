@@ -17,8 +17,8 @@ A **premium Tic Tac Toe game built with Flutter**, featuring an **AI opponent**,
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e19d289c-ff56-4b10-b211-e2f5c3267ef3" width="250" height="350"/>
-  <img src="https://github.com/user-attachments/assets/7a5aa807-9653-4752-85a0-3600e34ce0be" width="250" height="350/>
-  <img src="https://github.com/user-attachments/assets/9939c60c-e968-4f3d-9012-5451da59be5d" width="250" height="350/>
+  <img src="https://github.com/user-attachments/assets/7a5aa807-9653-4752-85a0-3600e34ce0be" width="250" height="350"/>
+  <img src="https://github.com/user-attachments/assets/9939c60c-e968-4f3d-9012-5451da59be5d" width="250" height="350"/>
 </p>
 
 ---
